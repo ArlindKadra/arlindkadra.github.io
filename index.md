@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dr. Arlind Kadra
+title: Dr. rer. nat. Arlind Kadra
 ---
 
 ## About Me
