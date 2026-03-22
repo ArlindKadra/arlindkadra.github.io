@@ -2,4 +2,4 @@
 layout: default
 is_contact: true
 ---
-\<last name\>\<first name\> at mailbox dot org or via [GitHub](https://github.com/ferreirafabio)
+arlindkadra@gmail.com or via [GitHub](https://github.com/ArlindKadra)

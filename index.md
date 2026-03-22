@@ -13,7 +13,6 @@ Arlind received his Ph.D. in Computer Science from the same lab, where his disse
 ## Publications
 For an up-to-date publication record, please check out my [Google Scholar](https://scholar.google.com/citations?user=bMa0KUcAAAAJ&hl=en) profile.
 
-{::comment}
 
 %## Selected Publications
 
@@ -28,9 +27,6 @@ For an up-to-date publication record, please check out my [Google Scholar](https
 %2. **A. Kadra**, M. Lindauer, F. Hutter, J. Grabocka, Well-Tuned Simple Nets Excel on Tabular Datasets, *NeurIPS 2021*, [[pdf](https://proceedings.neurips.cc/paper_files/paper/2021/file/c902b497eb972281fb5b4e206db38ee6-Paper.pdf)]
 
 %1. M. Feurer, J. N. Van Rijn, **A. Kadra**, P. Gijsbers, N. Mallik, S. Ravi, A. Müller, J. Vanschoren, F. Hutter, OpenML-Python: an Extensible Python API for OpenML, *JMLR 2021*, [[pdf](https://www.jmlr.org/papers/volume22/19-920/19-920.pdf)]
-
-{:/comment}
-
 
 ## Coding and Open-Sourcing
 
