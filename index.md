@@ -8,7 +8,7 @@ title: Dr. rer. nat. Arlind Kadra
 <img class="profile-picture" src="pic.png">
 
 Arlind Kadra is a Postdoctoral Researcher at the University of Technology Nuremberg, where he is working on automated machine learning, tabular foundation models, hyperparameter optimization, and meta-learning.
-Arlind received his Ph.D. in Computer Science from the same lab, where his dissertation focused on efficient, automated, and explainable deep learning systems.
+Arlind received his Ph.D. in Computer Science from the University of Freiburg, where his dissertation focused on efficient, automated, and explainable deep learning systems.
 
 ## Publications
 For an up-to-date publication record, please check out my [Google Scholar](https://scholar.google.com/citations?user=bMa0KUcAAAAJ&hl=en) profile.
